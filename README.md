@@ -17,10 +17,10 @@
   Open your preferred terminal and navigate to the Readme Generator file, from there enter node index and answer the prompts in the terminal, the readme will be placed in the dist folder once all questions have been answered
   ## Contributing
   N/A
-  ## Test
-  N/A
+  ## Video Example
+  [Here is the link to my video example](https://drive.google.com/file/d/1yOX03lAbShPK3-jVMOtpd7TOcF1UJa4M/view)
   # Questions
-  [My Github](https://github.com/PDismore)
+  [Link to my GitHub](https://github.com/PDismore)
   for any addtional questions pleas contact me at pat.dismore@gmail.com
   
 

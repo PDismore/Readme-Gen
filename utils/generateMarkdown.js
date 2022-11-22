@@ -41,19 +41,26 @@ function generateMarkdown(data) {
   - [Contributing](#contributing)
   - [Test](#test)
   - [Questions](#questions)
+
   ${renderLicenseLink(license)}
+
   ## Description
   ${description}
+
   ## Installation
   ${installation}
+
   ## Usage
   ${usage}
+
   ## Contributing
   ${contribution}
+
   ## Test
   ${test}
-  # Questions
-  [My Github](https://github.com/${username})
+
+  # Contact
+  [Link to my Github](https://github.com/${username})
   For any addtional questions please contact me at ${email}
   ${renderLicenseSection(license)}
 
